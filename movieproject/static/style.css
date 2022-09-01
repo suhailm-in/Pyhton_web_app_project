@@ -1,0 +1,12 @@
+body{
+background-color:cyan;
+}
+
+.container{
+padding-top: 50px;
+max-width: 1256px;
+}
+
+.card-body{
+background-color: darkgray;
+}
